@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Schedule</string>
+    <string name="tab_text_1">mo</string>
+    <string name="tab_text_2">tu</string>
+    <string name="tab_text_3">we</string>
+    <string name="tab_text_4">th</string>
+    <string name="tab_text_5">fr</string>
+    <string name="tab_text_6">sa</string>
+    <string name="get_group_list_progress_title">Group list</string>
+    <string name="get_group_list_progress_message">Loading...</string>
+    <string name="get_schedule_progress_title">Schedule</string>
+    <string name="get_schedule_progress_message">Loading...</string>
+    <string name="failed_get_group_list">Failed to get a list of groups</string>
+</resources>

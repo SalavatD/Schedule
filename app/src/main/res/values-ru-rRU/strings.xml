@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Расписание</string>
+    <string name="tab_text_1">пн</string>
+    <string name="tab_text_2">вт</string>
+    <string name="tab_text_3">ср</string>
+    <string name="tab_text_4">чт</string>
+    <string name="tab_text_5">пт</string>
+    <string name="tab_text_6">сб</string>
+    <string name="get_group_list_progress_title">Список групп</string>
+    <string name="get_group_list_progress_message">Загрузка...</string>
+    <string name="get_schedule_progress_message">Загрузка...</string>
+    <string name="get_schedule_progress_title">Расписание</string>
+    <string name="failed_get_group_list">Не удалось получить список групп</string>
+</resources>
